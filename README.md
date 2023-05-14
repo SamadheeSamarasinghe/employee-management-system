@@ -2,7 +2,7 @@
 
 ## How To Set Up and Run
 
-MySql database and XAMPP has been used as the data source of this application
+MySQL database and XAMPP has been used as the data source of this application. MySQL dump file is included for reference.
 
 ```bash
 From the terminal: 
@@ -34,3 +34,5 @@ $ npm start
 ![Screenshot (6)](https://github.com/SamadheeSamarasinghe/employee-management-system/assets/88893697/18a131b4-2b60-4a8c-8b1f-211e670e88ef)
 ![Screenshot (5)](https://github.com/SamadheeSamarasinghe/employee-management-system/assets/88893697/d4abfa76-9345-48ed-bb88-29ff151db0e0)
 ![Screenshot (4)](https://github.com/SamadheeSamarasinghe/employee-management-system/assets/88893697/1902c5e5-efc5-43fa-915b-3f5a801ae045)
+![Screenshot (7)](https://github.com/SamadheeSamarasinghe/employee-management-system/assets/88893697/35dd7fec-0913-424a-94ee-490975e7fb91)
+
