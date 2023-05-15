@@ -12,7 +12,7 @@ This project is a Node.js API with CRUD operations handled by a REST API using E
 ## Frameworks and Libraries
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" alt="Tailwindcss" width="120" height="120"/>&nbsp&nbsp;
+<img src="https://github.com/SamadheeSamarasinghe/employee-management-system/assets/88893697/c34206f9-472f-459f-a41e-27dd4e8c1d74" title="Tailwind" alt="Tailwind" width="80" height="80"/>&nbsp&nbsp;
 <img src="https://github.com/SamadheeSamarasinghe/employee-management-system/assets/88893697/f7bdbdf8-df98-4e41-8d16-b05c609ea453" title="Express" alt="Express" width="80" height="80"/>
   </div>
 
