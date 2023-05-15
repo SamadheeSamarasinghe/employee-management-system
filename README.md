@@ -12,8 +12,9 @@ This project is a Node.js API with CRUD operations handled by a REST API using E
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" alt="Tailwindcss" width="100" height="100"/>&nbsp&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="80" height="80"/>&nbsp&nbsp;
+![express-js-icon](https://github.com/SamadheeSamarasinghe/employee-management-system/assets/88893697/f7bdbdf8-df98-4e41-8d16-b05c609ea453)
   </div>
+
 
 ## How To Set Up and Run
 
