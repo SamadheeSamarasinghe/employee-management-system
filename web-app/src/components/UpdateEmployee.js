@@ -40,8 +40,8 @@ const UpdateEmployee = () => {
       <form onSubmit={handleSubmit}>
 
         <div className="border-gray-900/10 pb-12">
-          <div class="flex items-start justify-between p-5 border-b rounded-t dark:border-gray-200">
-            <h3 class="text-gray-900 text-xl lg:text-2xl font-semibold">
+          <div className="flex items-start justify-between p-5 border-b rounded-t dark:border-gray-200">
+            <h3 className="text-gray-900 text-xl lg:text-2xl font-semibold">
               Update Employee {empId}
             </h3>
           </div>
